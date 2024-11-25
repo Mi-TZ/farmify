@@ -1,9 +1,7 @@
 numpy
 pandas
-Flask
 scikit-learn
-torch
-torchvision
+torch>=1.9
+torchvision>=0.10
 requests
 Pillow
-gunicorn == 20.0.4
